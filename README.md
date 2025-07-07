@@ -17,15 +17,15 @@ cruft create https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin
 Cookiecutter prompts you for information regarding your plugin:
 
 ```no-highlight
-full_name [John Doe]: Citizen Kane
-email [john.doe@physik.hu-berlin.de]: citizen@kane.de
-github_username [foo]: kane
-plugin_name [foobar]: awesome-tools
-module_name [awesome_tools]: awesome_tools
-lab_name [lab_name]: pv_lab
-short_description [NOMAD example template]: An awesome plugin for NOMAD
+full_name [John Doe]: Nikolai Kraus
+email [john.doe@physik.hu-berlin.de]: nikolai.kraus@uibk.ac.at
+github_username [foo]: nikolai-KRAUS
+plugin_name [foobar]: nomad-pv-plugin-workshop
+module_name [awesome_tools]: moderately_awesome_tools
+lab_name [lab_name]: foo
+short_description [NOMAD example template]: bar
 version [0.1.0]:
-Select license:
+Select license: 1
 1 - MIT
 2 - BSD-3
 3 - GNU GPL v3.0+
