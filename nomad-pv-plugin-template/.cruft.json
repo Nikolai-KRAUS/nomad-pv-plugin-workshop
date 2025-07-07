@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+  "commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Nikolai Kraus",
+      "email": "nikolai.kraus@uibk.ac.at",
+      "github_username": "Nikolai-KRAUS",
+      "plugin_name": "nomad-pv-plugin-template",
+      "module_name": "nomad_pv_plugin_template",
+      "lab_name": "foo",
+      "short_description": "bar",
+      "version": "0.1.0",
+      "license": "MIT",
+      "include_schema_package": true,
+      "include_normalizer": true,
+      "include_parser": true,
+      "include_app": true,
+      "include_example_uploads": false,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+      "_commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e"
+    }
+  },
+  "directory": null
+}
